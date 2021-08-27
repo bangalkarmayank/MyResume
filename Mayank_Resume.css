@@ -1,0 +1,14 @@
+.Mayank_img{
+}      
+
+body{
+    background:rgb(197, 187, 187);
+}
+
+h1{
+    text-shadow: 1px 1px 3px rgb(150, 146, 146);
+}
+
+h3{
+    background-image: linear-gradient(to right, rgb(53, 165, 209), cyan); 
+}
